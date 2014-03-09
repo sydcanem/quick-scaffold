@@ -1,0 +1,8 @@
+node_modules
+
+# bower files
+public/js/libs
+
+# build files
+public/main.min.js
+public/css/styles.css

@@ -1,0 +1,24 @@
+{
+  "name": "gulp_browserify",
+  "version": "0.0.0",
+  "description": "Project template with gulp + browserify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "browserify",
+    "template"
+  ],
+  "author": "sydcanem",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.5.5",
+    "gulp-browserify": "^0.5.0",
+    "gulp-concat": "^2.1.7",
+    "gulp-livereload": "^1.2.0",
+    "gulp-less": "^1.2.2",
+    "gulp-watch": "^0.5.2"
+  }
+}

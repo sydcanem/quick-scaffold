@@ -1,0 +1,24 @@
+{
+  "name": "gulp_browserify",
+  "version": "0.0.0",
+  "authors": [
+    "sydcanem <icqhv.santos@gmail.com>"
+  ],
+  "description": "Project template with gulp + browserify",
+  "main": "index.js",
+  "keywords": [
+    "gulp",
+    "browserify"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.1.1"
+  }
+}
