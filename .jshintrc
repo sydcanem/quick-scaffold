@@ -1,0 +1,28 @@
+{
+	"bitwise"   : true,
+	"curly"     : true,
+	"eqeqeq"    : true,
+	"forin"     : false,
+	"latedef"   : true,
+	"newcap"    : true,
+	"noarg"     : true,
+	"noempty"   : true,
+	"undef"     : true,
+	"strict"    : true,
+	"trailing"  : true,
+	"camelcase" : true,
+	"evil"      : false,
+	"quotmark"  : "single",
+	"node"      : true,
+	"browser"   : true,
+	"sub"       : true,
+	"smarttabs" : true,
+	"maxparams" : 5,
+	"unused"    : "vars",
+
+	"globals" : {
+		"module"         : true,
+		"require"        : true,
+		"define"         : true
+	}
+}

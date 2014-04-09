@@ -4,5 +4,8 @@ node_modules
 public/js/libs
 
 # build files
+react/build/**/*.js
+public/bundle.js
+public/bundle.min.js
 public/main.min.js
 public/css/styles.css
