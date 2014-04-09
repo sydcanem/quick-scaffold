@@ -45,7 +45,6 @@ describe( 'Route', function () {
 				'render' : function ( view, def ) {
 					expect( view ).to.equal( 'index' );
 					expect( def ).to.deep.equal( {
-						'session' : utils.stringify( request.session.passport.user ),
 						'users' : utils.stringify( [] )
 					} );
 				}
